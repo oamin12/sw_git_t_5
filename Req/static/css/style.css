@@ -1,0 +1,7 @@
+#input[type=submit] {
+  /* TODO: change background to orange */
+  background-color: orange;
+  /* TODO: change font color to white */
+  color: white;
+  font-style: italic;
+}
